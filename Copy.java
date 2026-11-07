@@ -4,7 +4,7 @@ class Employee implements Cloneable
 {
     public int EID;
     public String Ename;
-    public int ESalary;
+    public int ESalary,;
   public Employee(int id, String str, int no)
   {
         this.EID = id;
